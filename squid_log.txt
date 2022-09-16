@@ -1,0 +1,18 @@
+main: startApp
+main: startApp
+main: startApp
+main: startApp
+main: startApp
+testMethod: start synchronized testMethod
+testMethod: end synchronized testMethod
+testMethod: start synchronized testMethod
+testMethod: end synchronized testMethod
+testMethod: start synchronized testMethod
+testMethod: end synchronized testMethod
+testMethod: start synchronized testMethod
+testMethod: end synchronized testMethod
+testMethod: start synchronized testMethod
+testMethod: end synchronized testMethod
+testMethod: start synchronized testMethod
+testMethod: end synchronized testMethod
+testMethod: start synchronized testMethod
